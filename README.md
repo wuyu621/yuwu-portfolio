@@ -1,12 +1,12 @@
-# Hi，I am Yu
+### Hi，I am Yu
 
-## Portfolio Website
+# Portfolio Website
 
 Welcome to my portfolio website! This platform highlights my journey as a self-taught web developer, showcasing my projects, skills, and passion for creating intuitive and dynamic web applications.
 
 Check out the live version of my portfolio website: [YuWu portfolio website](https://backroads-tripadviser.netlify.app)
 
-### Features
+## Features
 
 - **Project Showcase**:
 
@@ -25,7 +25,7 @@ Check out the live version of my portfolio website: [YuWu portfolio website](htt
 - **Personal Information**:
   - Contact information and more information of me.
 
-### Technologies Used
+## Technologies Used
 
 The portfolio website is powered by the following technologies:
 
