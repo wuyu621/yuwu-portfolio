@@ -1,0 +1,31 @@
+#### Hi，I am Yu
+
+# Portfolio Website
+
+Welcome to my portfolio website! This platform highlights my journey as a self-taught web developer, showcasing my projects, skills, and passion for creating intuitive and dynamic web applications.
+
+## Features
+
+- **Project Showcase**:
+
+  - Display of interactive web applications and small games.
+  - Full-stack and front-end projects built using modern tools like React, Next.js, Prisma, and Supabase.
+  - Descriptions and screenshots of each project, including technologies used
+
+- **Responsive Design**:
+
+  - Fully optimized for a seamless viewing experience across desktop, tablet, and mobile devices.
+
+- **Interactive UI**:
+
+  - Leveraging Tailwind CSS for sleek, responsive, and user-friendly designs.
+
+- **Personal Information**:
+  - Contact information and more information of me.
+
+## Technologies Used
+
+The portfolio website is powered by the following technologies:
+
+- **ReactJS**: Framework for building server-rendered React applications.
+- **Tailwind CSS**: Provides utility-first styling for responsive design.
