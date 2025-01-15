@@ -4,6 +4,8 @@
 
 Welcome to my portfolio website! This platform highlights my journey as a self-taught web developer, showcasing my projects, skills, and passion for creating intuitive and dynamic web applications.
 
+Check out the live version of my portfolio website: [YuWu portfolio website](https://backroads-tripadviser.netlify.app)
+
 ## Features
 
 - **Project Showcase**:
@@ -29,3 +31,5 @@ The portfolio website is powered by the following technologies:
 
 - **ReactJS**: Framework for building server-rendered React applications.
 - **Tailwind CSS**: Provides utility-first styling for responsive design.
+
+Thank you for visiting my portfolio!
