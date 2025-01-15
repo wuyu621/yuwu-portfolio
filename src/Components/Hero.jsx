@@ -13,6 +13,14 @@ const Hero = () => {
           <p className="mt-2 text-l text-slate-700 capitalize tracking-wide">
             turning ideas into interactive reality
           </p>
+          <a
+            href="resume.pdf"
+            target="_blank"
+            className="capitalize text-violet-400 hover:text-violet-700 font-semibold  flex gap-x-1 items-center mt-4 "
+          >
+            <p>view my resume</p>
+            <MdArrowOutward className="h-4 w-4 animate-bounce" />
+          </a>
           <div className="flex gap-x-4 mt-4">
             <a href="https://github.com/wuyu621">
               <FaGithubSquare className="h-8 w-8 text-slate-500 hover:text-black duration-300" />
