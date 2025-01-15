@@ -12,7 +12,7 @@ const About = () => {
         <article className="col-span-8">
           <SectionTitle text="about me" />
           <p className="text-slate-600 mt-4 leading-relaxed tracking-wide">
-            Hi! My name is Yu.I'm a Seattle-based mom with a strong background
+            Hi! My name is Yu. I'm a Seattle-based mom with a strong background
             in biotechnology and 8 years of experience as a project manager in
             the biomedicine industry. Currently, I’m transitioning into web
             development, driven by a passion for creating impactful,
