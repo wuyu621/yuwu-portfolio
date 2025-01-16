@@ -30,7 +30,7 @@ Check out the live version of my portfolio website: [YuWu portfolio website](htt
 
 The portfolio website is powered by the following technologies:
 
-- **ReactJS**: Framework for building server-rendered React applications.
-- **Tailwind CSS**: Provides utility-first styling for responsive design.
+- **ReactJS**: A JavaScript library for building dynamic and interactive user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for creating responsive and modern designs.
 
 Thank you for visiting my portfolio!
