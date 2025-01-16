@@ -4,8 +4,8 @@ Welcome to my portfolio website! This platform highlights my journey as a self-t
 
 Check out the live version of my portfolio website: [YuWu portfolio website](https://yuwu-portfolio.netlify.app/)
 
-![Screenshot](/screenshot1.jpg)
-![Screenshot](/screenshot2.jpg)
+![Screenshot](screenshot1.jpg)
+![Screenshot](screenshot2.jpg)
 
 ## Features
 
