@@ -1,12 +1,11 @@
-
 # Portfolio Website
 
 Welcome to my portfolio website! This platform highlights my journey as a self-taught web developer, showcasing my projects, skills, and passion for creating intuitive and dynamic web applications.
 
 Check out the live version of my portfolio website: [YuWu portfolio website](https://yuwu-portfolio.netlify.app/)
 
-![Screenshot](screenshot/portfolio1.jpg)
-![Screenshot](screenshot/portfolio2.jpg)
+![Screenshot](/screenshot1.jpg)
+![Screenshot](/screenshot2.jpg)
 
 ## Features
 

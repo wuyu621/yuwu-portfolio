@@ -1,5 +1,6 @@
 import heroImg from "../assets/hero.svg";
-import { FaGithubSquare, FaLinkedin, FaTwitterSquare } from "react-icons/fa";
+import { FaGithubSquare, FaLinkedin } from "react-icons/fa";
+import { MdArrowOutward } from "react-icons/md";
 
 const Hero = () => {
   return (
@@ -28,9 +29,6 @@ const Hero = () => {
             <a href="https://www.linkedin.com/in/yu-wu-500109279/">
               <FaLinkedin className="h-8 w-8 text-slate-500 hover:text-black duration-300" />
             </a>
-            {/* <a href="">
-              <FaTwitterSquare className="h-8 w-8 text-slate-500 hover:text-black duration-300" />
-            </a> */}
           </div>
         </article>
         <article className=" hidden md:block">
