@@ -54,7 +54,7 @@ export const skills = [
   },
   {
     id: nanoid(),
-    title: "NextJS",
+    title: "Next.js",
     icon: <RiNextjsFill className="h-12 w-12 text-violet-500" />,
   },
   {
@@ -88,7 +88,7 @@ export const projects = [
     title: "Full Stack Next.js E-Commerce",
     text: "An intuitive shopping platform that lets users browse and filter products, leave reviews, set favorites, manage their shopping cart, and place orders. Admins can efficiently manage the product database. The app also offers a responsive design and dark mode for a personalized experience.",
     technologies:
-      "Built by : NextJS | TypeScript | Tailwind CSS | Shadcn/ui | Clerk | Supabase | Prisma | Stripe",
+      "Built by : Next.js | TypeScript | Tailwind CSS | Shadcn/ui | Clerk | Supabase | Prisma | Stripe",
   },
   {
     id: nanoid(),
@@ -153,7 +153,7 @@ export const projects = [
     github: "https://github.com/wuyu621/simongame",
     title: "simon game",
     text: "A fun, interactive version of the classic Simon game, featuring pixelated graphics and retro-style design. Try it out and enjoy the nostalgic challenge!",
-    technologies: "Built by : Javascript｜ JQuery ｜ HTML ｜ CSS",
+    technologies: "Built by : JavaScript | JQuery | HTML | CSS",
   },
   {
     id: nanoid(),
@@ -161,7 +161,7 @@ export const projects = [
     url: "https://dicegame-2players.netlify.app/",
     github: "https://github.com/wuyu621/dicegame",
     title: "Dice Game for Two Players",
-    text: "A simple and fun dice game for two players. Try it out—maybe you can use it to decide who does the chores tonight or who’s treating for lunch today!",
-    technologies: "Built by :Javascript｜HTML｜CSS",
+    text: "A simple and fun dice game for two players. Try it out—maybe you can use it to decide who does the chores tonight or who's treating for lunch today!",
+    technologies: "Built by :JavaScript | HTML | CSS",
   },
 ];
